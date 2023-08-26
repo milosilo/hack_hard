@@ -1,6 +1,7 @@
 # hack_hard
 
 version 1.0
+**Follow me on Twitter for upcoming new game releases this week @MiloSilo_Hacks**
 
 **Game Description:**
 Welcome to "Hack Hard" a nostalgic journey back to the era of retro RPGs with a cyber twist! Step into the digital shoes of a savvy hacker with a knack for problem-solving and cunning tactics. Immerse yourself in pixelated skyscrapers and digital challenges inspired by the legendary John McClane. Traverse through each floor, each one a virtual level packed with hacking quests.
