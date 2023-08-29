@@ -1,6 +1,6 @@
 # hack_hard
 
-version 1.0
+version 2.0 - Now with some color!
 
 **Follow me on Twitter for upcoming game releases this week @MiloSilo_Hacks**
 
