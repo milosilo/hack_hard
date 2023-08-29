@@ -1,5 +1,12 @@
 import time
 
+# Initialize ANSI colors for terminal
+try:
+    import colorama
+    colorama.init()
+except ImportError:
+    pass
+    
 class Floor:
 
     def __init__(self, name, completed=False):
@@ -8,11 +15,11 @@ class Floor:
         self.description = "Test Description"
 
     def introduce_floor(self):
-        print(f"\nWelcome to {self.name} - {self.description}")
+        print(f"[91m\nWelcome to {self.name}[0m - {self.description}")
         if self.completed:
-            print("You've already cleared this floor. No Hanz here.")
+            print("[92mYou've already cleared this floor. No Hanz here.[0m")
         else:
-            print("This floor is waiting to be conquered!")
+            print("[93mThis floor is waiting to be conquered![0m")
 
         if self.name == "Recon" and not self.completed:
             self.start_recon_phase()
