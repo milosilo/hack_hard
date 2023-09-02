@@ -1,5 +1,7 @@
 # hack_hard
 
+![Hack Hard](https://i.redd.it/mim10sm0pslb1.png)
+
 version 2.0 - Now with some color!
 
 **Follow me on Twitter for upcoming game releases this week @MiloSilo_Hacks**
